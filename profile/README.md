@@ -15,7 +15,7 @@ Please contact [admin@baimoqilin.top](mailto:admin@baimoqilin.top) or the Discor
 
 ## [BukkitGPT](https://github.com/CubeGPT/BukkitGPT)
 ![BukkitGPT-Logo](https://cdn.jsdelivr.net/gh/Zhou-Shilin/picx-images-hosting@master/20240202/bukkitgpt-logo.webp)
-BukkitGPT is an open source, free, AI-powered Minecraft Bukkit plugin generator. It was developed for minecraft server owners who are not technically savvy but need to implement all kinds of customized small plugins. From code to build, debug, all done by gpt
+BukkitGPT is an open source, free, AI-powered Minecraft Bukkit plugin generator. It was developed for minecraft server owners who are not technically savvy but need to implement all kinds of customized small plugins. From code to build, debug, all done by gpt.
 
 ## [BuilderGPT](https://github.com/CubeGPT/BuilderGPT)
 ![BuilderGPT-Logo](https://raw.githubusercontent.com/Zhou-Shilin/picx-images-hosting/master/buildergpt-logo.jpeg)
@@ -27,7 +27,7 @@ This key has access to gpt-4-1106-preview and gpt-3.5-turbo-1106.
 
 **Note that this key does not have access to models such as gpt-4-vision and expires at any time.**
 
-Get the key from [here](https://github.com/orgs/CubeGPT/discussions/1). You can use it in BuilderGPT.
+Get the key from [here](https://github.com/orgs/CubeGPT/discussions/1). You can use it in CubeGPT's projects.
 
 ## Partner
 [![](https://www.bisecthosting.com/partners/custom-banners/c37f58c7-c49b-414d-b53c-1a6e1b1cff71.webp)](https://bisecthosting.com/cubegpt)
